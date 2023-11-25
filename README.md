@@ -5,9 +5,9 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Antalya
-* 🖥️  See my portfolio at [suleymankndlc.me](http://suleymankndlc.me)
-* ✉️  You can contact me at [hello@suleymankndlc.me](mailto:hello@suleymankndlc.me)
-* 🚀  I'm currently working on [LolScript](http://lolscript.com)
+* 🖥️  See my portfolio at [suleymankndlc.me](http://suleymankndlc.dev)
+* ✉️  You can contact me at [hello@suleymankndlc.me](mailto:hello@suleymankndlc.dev)
+* 🚀  I'm currently working on Nothing :)
 * 🧠  I'm learning Nestjs
 * 🤝  I'm open to collaborating on Express or Next.js Projects
 
